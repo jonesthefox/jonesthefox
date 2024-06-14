@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonesthefox
-- 👀 I’m interested in plants, space, programming
-- 🌱 I’m currently learning python, php
+- 👀 I’m interested in plants, space, programming, digital deejaying
+- 🌱 I’m currently learning python, php, vue.js
 
 
 <!---
