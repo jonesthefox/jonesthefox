@@ -16,8 +16,8 @@
 
 ## 🎯 Current Projects
 
-* Building a **Vue.js** dashboard for monitoring plant growth parameters controlled by a **fastAPI** backend on a raspberry Pi
-* Exploring **TypeScript**
+### 🎨 ColorThemeGenerator
+Extracts dominant colors from JPG or PNG files right in the browser—no server, no tracking.  A Web Worker resizes your image and applies a Voronoi-style “crystallization” filter to generate Light & Dark UI themes with custom shade levels.  Includes contrast-aware sampling, full JSON & TypeScript theme output, and a polished Vuetify 3 frontend. Everything happens client-side for maximum privacy.
 
 ---
 
